@@ -4,7 +4,6 @@
 .container{
   display:flex;
   flex-flow:column wrap;
-  justify-content:space-evenly;
 }
 .item{
    display:flex;
