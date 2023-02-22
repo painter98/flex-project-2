@@ -18,27 +18,19 @@
   justify-content:center;
   box-shadow:8px 8px 5px gray;
   background-color:white;
-}
-.item2{
-  margin:10px;
-}
-.item1{
-  margin:10px;
-}
-.item3{
-  margin:10px;
+   margin:2%;
 }
 img{
-  width:400px;
+  width:100%;
 }
-.item3:hover{
+.item2:hover,.item1:hover,.item3:hover{
   color:green;
 }
 button{
   margin:10px 30px;
-  width:80px;
+  width:60%;
 }
 .text{
-  inline-size:150px;
+  inline-size:50%;
   padding:15px;
 }
